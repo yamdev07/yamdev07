@@ -1,22 +1,8 @@
 <h1 align="center">Hi 👋, I'm Yamdev07</h1>
 <h3 align="center">Développeur Full Stack | Projets Python & JavaScript</h3>
 
-📍 Basé au Bénin • Passionné par la création d'API et d'interfaces modernes.
-
 ---
 
-## 🚀 À propos de moi
-
-- 🔭 Je travaille actuellement sur des projets backend avec **Python (Django/DRF)** et **FastAPI**.
-- 🌱 J'explore le développement frontend avec **React** et **Vue.js**.
-- 💬 Je suis ouvert à la collaboration et aux contributions open‑source.
-- 📫 Contact : laisser un ticket ou discussion sur GitHub.
-
----
-
-## 📂 Repos récents
-
-- **[api_yamdb](https://github.com/vokson/api_yamdb)** – Projet de groupe pour une API de gestion de contenus média (Yandex Praktikum) :contentReference[oaicite:1]{index=1}.
 
 ---
 
@@ -38,11 +24,8 @@
 ## 🔗 Me suivre
 
 - ⭐ Je partage régulièrement des projets, PRs et issues.
-- 🏆 Je suis curieux·se, motivé·e et déterminé·e.
 
 ---
-
-> « Faire, apprendre, partager »
 
 
 <!--
