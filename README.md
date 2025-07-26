@@ -1,5 +1,5 @@
-<h1 align="center">Salut 👋, moi c'est Yoann (yamdev07)</h1>
-<h3 align="center">Développeur passionné | Fullstack | Mobile & Web</h3>
+<h1 align="center"> yamdev07</h1>
+<h3 align="center">Développeur  | Fullstack | Mobile & Web</h3>
 
 ---
 
