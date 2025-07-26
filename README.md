@@ -8,7 +8,7 @@
 - 🔭 Je travaille sur **des applications mobiles et web** (Laravel, Flutter, Firebase, etc.)
 - 🌱 Je suis actuellement en Master 1 Sécurité des Systèmes Informatiques
 - 🚀 Je développe aussi des projets innovants pour l’Afrique de l’Ouest
-- 📫 Contact : **yamdev07@gmail.com**
+- 📫 Contact : **yoannyamd@gmail.com**
 
 ---
 
