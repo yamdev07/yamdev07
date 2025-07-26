@@ -47,7 +47,7 @@
 
 - 🔧 [**Application O'TO** – Garage mobile à domicile](https://github.com/yamdev07/OTO-s) *(Flutter + Firebase)*
 - 📁 [**Gestion Clientèle AnyxTech** – Web App Laravel](https://github.com/yamdev07/TaskManagement)
-- 🧠 [**Système de Hotspot** *(POC)*](https://github.com/yamdev07/Hostpot)
+- 🧠 [**Système de Hotspot** *(POC)*](https://github.com/yamdev07/HotspotYamd)
 
 ---
 
