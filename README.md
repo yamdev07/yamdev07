@@ -53,5 +53,5 @@
 
 ## 🤝 Me contacter
 
-- Email : **yamdev07@gmail.com**
+- Email : **yoannyamd@gmail.com**
 - LinkedIn : [linkedin.com/in/yamdev07](https://www.linkedin.com/in/yamdev07)
