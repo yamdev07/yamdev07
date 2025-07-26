@@ -45,7 +45,7 @@
 
 ## 🚀 Projets mis en avant
 
-- 🔧 [**Application O'TO** – Garage mobile à domicile](https://github.com/yamdev07/oto-app) *(Flutter + Firebase)*
+- 🔧 [**Application O'TO** – Garage mobile à domicile](https://github.com/yamdev07/OTO-s) *(Flutter + Firebase)*
 - 📁 [**Gestion Clientèle AnyxTech** – Web App Laravel](https://github.com/yamdev07/anyxtech-client-app)
 - 🧠 [**Système de Hotspot** *(POC)*](https://github.com/yamdev07/Hostpot)
 
