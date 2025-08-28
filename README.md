@@ -7,7 +7,6 @@
 
 - 🔭 Je travaille sur **des applications mobiles et web** (Laravel, Flutter, Firebase, etc.)
 - 🌱 Je suis actuellement en Master 1 Sécurité des Systèmes Informatiques
-- 🚀 Je développe aussi des projets innovants pour l’Afrique de l’Ouest
 - 📫 Contact : **yoannyamd@gmail.com**
 
 ---
@@ -31,17 +30,6 @@
 
 ---
 
-## 🏆 Trophées GitHub
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=yamdev07&theme=tokyonight&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-## 🔥 Streak de contributions
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=yamdev07&theme=tokyonight)](https://git.io/streak-stats)
-
----
 
 ## 🚀 Projets mis en avant
 
