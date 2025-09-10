@@ -30,6 +30,9 @@
 
 ---
 
+# 🏆 Trophées GitHub
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=yamdev07&theme=onedark&locale=fr)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## 🚀 Projets mis en avant
 
