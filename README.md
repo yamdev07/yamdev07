@@ -1,17 +1,17 @@
-<h1 align="center"> yamdev07</h1>
-<h3 align="center">Développeur  | Fullstack | Mobile & Web</h3>
+<h1 align="center"> yamdev07 </h1>
+<h3 align="center"> Fullstack Developer | Mobile & Web </h3>
 
 ---
 
-### 🧑‍💻 À propos de moi
+### 🧑‍💻 About Me
 
-- 🔭 Je travaille sur **des applications mobiles et web** (Laravel, Flutter, Firebase, etc.)
-- 🌱 Je suis actuellement en Master 1 Sécurité des Systèmes Informatiques
-- 📫 Contact : **yoannyamd@gmail.com**
+- 🔭 I’m currently working on **mobile and web applications** (Laravel, Flutter, Firebase, etc.)  
+- 🌱 I’m pursuing a **Master’s degree in Information Systems Security**  
+- 📫 Contact me at **yoannyamd@gmail.com**
 
 ---
 
-### 🛠️ Stack & Outils
+### 🛠️ Tech Stack & Tools
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-F05340?style=flat&logo=laravel&logoColor=white)
@@ -23,26 +23,29 @@
 
 ---
 
-## 📊 Mes Stats GitHub
+## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yamdev07&show_icons=true&theme=tokyonight&count_private=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yamdev07&show_icons=true&theme=tokyonight&count_private=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yamdev07&layout=compact&theme=tokyonight)
 
 ---
 
-# 🏆 Trophées GitHub
+# 🏆 GitHub Trophies
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=yamdev07&theme=onedark&locale=fr)](https://github.com/ryo-ma/github-profile-trophy)
-
-## 🚀 Projets mis en avant
-
-- 🔧 [**Application O'TO** – Garage mobile à domicile](https://github.com/yamdev07/OTO-s) *(Flutter + Firebase)*
-- 📁 [**Gestion Clientèle AnyxTech** – Web App Laravel](https://github.com/yamdev07/TaskManagement)
-- 🧠 [**Système de Hotspot** *(POC)*](https://github.com/yamdev07/HotspotYamd)
+[![trophy](https://github-profile-trophy.vercel.app/?username=yamdev07&theme=onedark&locale=en)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
-## 🤝 Me contacter
+## 🚀 Featured Projects
 
-- Email : **yoannyamd@gmail.com**
-- LinkedIn : [linkedin.com/in/yamdev07](https://www.linkedin.com/in/yamdev07)
+- 🔧 [**O'TO App** – Mobile Garage Platform](https://github.com/yamdev07/OTO-s) *(Flutter + Firebase)*  
+- 📁 [**AnyxTech Client Management** – Web App](https://github.com/yamdev07/TaskManagement) *(Laravel)*  
+- 🧠 [**Hotspot System (POC)**](https://github.com/yamdev07/HotspotYamd) *(Networking + Authentication)*  
+- 🤖 [**FaceVision Pro** – AI-based Facial & Text Recognition App](https://github.com/yamdev07/FaceVisionPro) *(Python + Streamlit + OpenCV)*  
+
+---
+
+## 🤝 Contact Me
+
+- 📧 Email: **yoannyamd@gmail.com**  
+- 💼 LinkedIn: [linkedin.com/in/yamdev07](https://www.linkedin.com/in/yamdev07)
