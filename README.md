@@ -33,12 +33,6 @@
 
 ---
 
-# 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=yamdev07&theme=onedark&locale=en)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
 ## 🚀 Featured Projects
 
 - 🔧 [**O'TO App** – Mobile Garage Platform](https://github.com/yamdev07/OTO-s) *(Flutter + Firebase)*  
