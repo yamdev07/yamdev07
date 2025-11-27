@@ -45,4 +45,4 @@
 ## 🤝 Contact Me
 
 - 📧 Email: **yoannyamd@gmail.com**  
-- 💼 LinkedIn: [linkedin.com/in/yamdev07](https://www.linkedin.com/in/yamdev07)
+- 💼 LinkedIn: [linkedin.com/in/yamdev07](https://www.linkedin.com/in/yoann-adigbonon-71b1a6295) 
