@@ -32,7 +32,11 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yamdev07&layout=compact&theme=tokyonight)
 
 ---
+## Github Trophie
+<!-- GitHub Trophy -->
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=yamdev07&theme=gruvbox&no-frame=true&margin-w=15&margin-h=15)
 
+----
 ## 🚀 Featured Projects
 
 - 🔧 [**O'TO App** – Mobile Garage Platform](https://github.com/yamdev07/OTO-s) *(Flutter + Firebase)*  
