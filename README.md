@@ -26,15 +26,9 @@
 ---
 
 ## 📊 GitHub Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=yamdev07&theme=tokyonight)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yamdev07&show_icons=true&theme=tokyonight&count_private=true)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yamdev07&layout=compact&theme=tokyonight)
-
----
-## Github Trophie
-<!-- GitHub Trophy -->
-![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=yamdev07&theme=gruvbox&no-frame=true&margin-w=15&margin-h=15)
 
 ----
 ## 🚀 Featured Projects
