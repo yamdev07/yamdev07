@@ -5,8 +5,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🔭 I’m currently working on **mobile and web applications** (Laravel, Flutter, Firebase, etc.)  
-- 🌱 I’m pursuing a **Master’s degree in Information Systems Security**  
+- Laravel Full-Stack Developer building production-ready web applications (security-first).
 - 📫 Contact me at **yoannyamd@gmail.com**
 
 ---
