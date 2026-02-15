@@ -59,7 +59,7 @@ I build <b>production-ready business applications</b> with <b>Laravel</b> and mo
 ### 🌐 Hotspot System (POC) — Captive portal + authentication
 - **Goal:** network login flows + billing concept (hotspot)
 - **What it proves:** networking + auth integration mindset  
-🔗 (add repo link here)
+🔗 https://github.com/yamdev07/HotspotMemYAMD
 
 ### 📱 O'TO App — Mobile garage platform
 - **Stack:** Flutter + Firebase  
