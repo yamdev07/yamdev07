@@ -16,7 +16,11 @@ I build <b>production-ready business applications</b> with <b>Laravel</b> and mo
 - ✅ Ship projects with a production mindset (Docker, CI, deployments)
 
 ---
+## GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yamdev07&show_icons=true&count_private=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yamdev07&layout=compact)
 
+---
 ## Production Practices (Senior Signals)
 - 🧪 Automated tests (PHPUnit)
 - 🐳 Docker / Docker Compose for local environments
@@ -67,11 +71,7 @@ I build <b>production-ready business applications</b> with <b>Laravel</b> and mo
 
 ---
 
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yamdev07&show_icons=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yamdev07&layout=compact)
 
----
 
 ## Contact
 - Email: **yoannyamd@gmail.com**
