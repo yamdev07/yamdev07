@@ -17,6 +17,7 @@ I build <b>production-ready business applications</b> with <b>Laravel</b> and mo
 
 ---
 ## GitHub Stats
+![GitHub Streak](https://streak-stats.demolab.com/?user=yamdev07&theme=dark)
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yamdev07&show_icons=true&count_private=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yamdev07&layout=compact)
 ---
