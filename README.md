@@ -52,7 +52,7 @@ I build <b>production-ready business applications</b> with <b>Laravel</b> and mo
 - **Goal:** manage products, sales, stock movements, users/roles
 - **Stack:** Laravel + MySQL
 - **What it proves:** business workflows + database design + RBAC  
-🔗 https://github.com/yamdev07/quincApp
+🔗 https://github.com/yamdev07/Sellvantix_Saas
 
 ### 🏨 HotelManagement — Hotel operations platform
 - **Goal:** reservations, check-in/out, invoicing, staff roles, reports
