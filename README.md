@@ -4,7 +4,7 @@ I build <b>production-ready business applications</b> with <b>Laravel</b> and mo
 </p>
 
 <p align="center">
-  📍 Cotonou, Benin • 🔗 <a href="https://portofolionext-js-lxnq.vercel.app">Portfolio</a> • 💼 <a href="https://www.linkedin.com/in/yoann-yamd-71b1a6295/">LinkedIn</a> • ✉️ <a href="mailto:yoannyamd@gmail.com">yoannyamd@gmail.com</a>
+  📍 Cotonou, Benin • 🔗 <a href="https://portofolionext-js-lxnq.vercel.app">Portfolio</a> • 💼 <a href="linkedin.com/in/yoann-adigbonon-71b1a6295/">LinkedIn</a> • ✉️ <a href="mailto:yoannyamd@gmail.com">yoannyamd@gmail.com</a>
 </p>
 
 ---
